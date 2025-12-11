@@ -2,3 +2,4 @@ SalesOrderNumber,SalesOrderLineNumber,OrderDate,CustomerName,EmailAddress,Item,Q
 SO22001,1,2022-01-01,Donald Duck,donald.duck@adventure-works.com,Patch Kit/8 Patches 22001,1,2.29,0.1832
 SO22002,1,2022-01-02,Donald Duck,donald.duck@adventure-works.com,Patch Kit/8 Patches 22001,1,2.29,0.1832
 SO22003,1,2022-01-03,Donald Duck,donald.duck@adventure-works.com,Patch Kit/8 Patches 22001,1,2.29,0.1832
+SO22004,1,2022-01-04,Donald Duck,donald.duck@adventure-works.com,Sport-100 Helmet,1,2.29,0.1832
